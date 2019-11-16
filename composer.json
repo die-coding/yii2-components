@@ -1,0 +1,25 @@
+{
+	"name": "diecoding/yii2-components",
+	"description": "Absolutely deactivated by the owner",
+	"type": "yii2-extension",
+	"keywords": [],
+	"authors": [
+		{
+			"name": "Die Coding",
+			"email": "diecoding@gmail.com",
+			"homepage": "https://diecoding.com",
+			"role": "Organization"
+		},
+		{
+			"name": "Sugeng Sulistiyawan",
+			"email": "sugeng.sulistiyawan@gmail.com",
+			"homepage": "https://iam.diecoding.com",
+			"role": "Founder"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"diecoding\\components\\": "src"
+		}
+	}
+}
