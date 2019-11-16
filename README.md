@@ -1,1 +1,1 @@
-# yii2-components
+`Absolutely deactivated by the owner`
